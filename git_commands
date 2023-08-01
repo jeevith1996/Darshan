@@ -12,3 +12,5 @@ git checkout -b
 git checkout
 git branch
 .gitignore
+git clone
+git remote -v
